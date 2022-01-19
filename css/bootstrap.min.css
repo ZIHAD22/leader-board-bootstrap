@@ -64,6 +64,10 @@
   --bs-body-color: #212529;
   --bs-body-bg: #fff;
 }
+/* custume css */
+.houre-bg-color {
+  background-color: #ffe4e8;
+}
 *,
 ::after,
 ::before {
